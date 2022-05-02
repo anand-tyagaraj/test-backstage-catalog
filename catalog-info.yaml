@@ -9,11 +9,11 @@ metadata:
     - javascript
     - react
   links:
-    - url: https://github.com/philips-test-org/backstage-sample-service-main
+    - url: https://github.com/anand-tyagaraj/test-backstage-catalog
       title: Sample Service GitHub
       icon: code
   annotations:    
-    github.com/project-slug: 'philips-test-org/backstage-sample-service-main'    
+    github.com/project-slug: 'anand-tyagaraj/test-backstage-catalog'    
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
