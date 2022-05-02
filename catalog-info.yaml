@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: philips-test-backstage-sample-service
+  name: anand-backstage-sample-service
   description: Sample React web app
   labels:
     system: web-apps
